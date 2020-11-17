@@ -10,10 +10,10 @@ ChokunPlayZ's Own Essential Plugin
 
 Beta Release V 1.7.2
 #  Changelog/อับเดคฟีเจอร์
- -  🎮 Full Gamemode Command
- -  🍔 Feed Feture (🧑All Player Comming Soon)
- -  ❤ Heal You and Player (🧑 All Player Comming Soon)
- -  ✈ Fly Now Avable
+ -  🎮 Gamemode /gm /gamemode /gmc /gms /gmsp /gma
+ -  🍔 /feed (🧑 สั่งทั้งเชิฟมาเร็วนี้)
+ -  ❤ /Heal ใช้ใด้แล้ว (🧑 สั่งทั้งเชิฟมาเร็วนี้)
+ -  ✈ /fly ใช้ใด้แล้ว
  -  🌈 Color Config
 # Commands คำสั่ง
 ## Gamemode เปลี่ยนโหมด

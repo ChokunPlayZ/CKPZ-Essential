@@ -1,0 +1,29 @@
+name: CKPZ-Essential-Beta
+version: 1.7.2
+author: ChokunPlayZ
+main: me.chokunplayz.CKPZEssential.Main
+description: CKPZ Essential Plugin
+
+commands: 
+   ckpzessential:
+    aliases: [ckes]
+    description: About Plugin
+   gamemode:
+    aliases: [gm]
+    description: Gamemode
+   gms:
+    description: Survival
+   gmc:
+    description: Creative
+   gma:
+    description: Adventure
+   gmsp:
+    description: Spectator
+   fly:
+    description: fly command
+   heal:
+    description: Heal Yourself or others
+   feed:
+    description: Feed Yourself or others
+   brc: 
+    description: Boardcast Message

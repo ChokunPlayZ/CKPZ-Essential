@@ -1,0 +1,74 @@
+##############################################
+##############################################
+##                                          ##
+##         CKPZ Essential Plugin            ##
+##                                          ##
+##           Open Sorce V.1.7.2             ##
+##                                          ##
+##                Credits                   ##
+##                                          ##
+##              ChokunPlayZ                 ##
+##        Its only me no one else           ##
+##                                          ##
+##       Thankyou For Downloading           ##
+##                                          ##
+##############################################
+##############################################
+
+#This is beta release so some feture may don't work
+# Thai Config Comming Soon !!!
+
+#Do Not Edit Shit in Here The Plugin Will Not Work
+#If You Edit it
+
+Version: '1.7.2' #Plugin's Startup Check will match this with plugin.yml
+Startup-Message: '&4Console Still Sucks PS5 Dont have Hot-Swapable SSD'
+
+#You Can Edit Below This Line
+##############################################
+
+# Global Args (Used by Every Command)
+
+Config-Reload: '&a[Config Reloaded]'
+console-denied: '&4Console is a no no for this command'
+noperms: ' &4You Dont have Permission to fo this'
+prefix: '&6[&b*&6]'
+
+
+#Fly Command Args (/FLy Command)
+Fly-Command:
+   flying-enable: '&aFlying Enable'
+   flying-disable: '&cFlying disable'
+   
+#Heal Command Args (/Heal Command) 
+Heal-Command: 
+   heal: '&aYou Got Healed!'
+   heal-others: '&aYou have Healed player'
+   heal-others-null: '&ePlayer You want to heal is No Where to be found'
+
+#Feed Command Args (/feed Command)
+Feed-Command:
+  feed: '&aYou Got Feed!'
+  feed-others: '&aYou have Feed player'
+  feed-others-null: '&ePlayer You feed is No Where to be found'
+
+#Gamemode Command Args (/gm /Gamemode) คำสั่ง Gamemode
+Gamemode-Command: 
+  gamemode-no-args: 'I dont see any args there can you recheck'
+  gamemode-changed: 'Gamemode Changed'
+  gamemode-traget-null: 'I dont see any player you type there'
+  # yourself จะขึ้นในคนที่เปลี่ยน Gamemode
+  survival: '&aYour Gamemode Changed to Survival'
+  creative: '&aYour Gamemode Changed to Creative'
+  adventure: '&aYour Gamemode Changed to Adventure'
+  spectator: '&aYour Gamemode Changed to Spectator'
+  # others คำสั่งที่เปลี่ยน Gamemode คนอื่น
+  survival-others: '&aYou have others Gamemode Changed to Survival'
+  creative-others: '&aYou have others Gamemode Changed to Creative'
+  adventure-others: '&aYou have others Gamemode Changed to Adventure'
+  spectator-others: '&aYou have others Gamemode Changed to Spectator'
+  #Boardcast คำสั่งประกาศ
+  boardcast-prefix: '[Boardcast]'
+  boardcast-done: 'Baordcast Success'
+  boardcast-not-found: 'Boardcast Message Not Found'
+ ###################### End Of Config ##################################
